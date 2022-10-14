@@ -1,6 +1,5 @@
 ### Selam ben Arda! 👋
 _Full Stack - Front-End Developer_
-<br></br>
 ### Hakkımda:
 1.5 yıldır yazılım ile uğraşıyorum, birçok **Discord Bot**u geliştirdim, public sunucuları başta olmak üzere gif botları dahi geliştiriyorum; sende benle çalışmak istersen Discord üzerinden ulaşabilirsin.
 
