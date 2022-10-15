@@ -8,6 +8,7 @@ _Full Stack - Front-End Developer_
 <br></br>
 
 **Discord:** [Arda#1000](https://discord.com/users/949705281863032872)
+**Spotify:** [Arda](https://open.spotify.com/user/31w73vykhjhyetlg2klp4yuznrui?si=wT3PEdZATqCmZCUynxAy-Q&utm_source=copy-link)
 <img src='https://api.ravencode.live/users/920366542531743797/embed'></img>
 
 
