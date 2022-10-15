@@ -1,10 +1,13 @@
 [![Arda](https://media.discordapp.net/attachments/1024428907761512468/1030953209575002143/20221016_001945.jpg)](https://github.com/arddaxd/)
-
+![](https://komarev.com/ghpvc/?username=arddaxd)<br>
 
 ### Selam ben Arda! 👋
 _Full Stack - Front-End Developer_
 ### Hakkımda:
-1.5 yıldır yazılım ile uğraşıyorum, birçok **Discord Bot**u geliştirdim, public sunucuları başta olmak üzere gif botları dahi geliştiriyorum; sende benle çalışmak istersen Discord üzerinden ulaşabilirsin.
+1.5 yıldır yazılım ile uğraşıyorum, birçok **Discord Bot**u geliştirdim, public sunucuları başta olmak üzere gif botları dahi geliştiriyorum; sende benle çalışmak istersen **Discord**<img width="18" height="18" src='https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png'/> üzerinden ulaşabilirsin.
+[Arda#1000](https://discord.com/users/949705281863032872)
+<img src='https://api.ravencode.live/users/920366542531743797/embed'></img>
+
 
 
 ### Kullandıklarım:
