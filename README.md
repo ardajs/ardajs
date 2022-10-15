@@ -7,8 +7,8 @@ _Full Stack - Front-End Developer_
 1.5 yıldır yazılım ile uğraşıyorum, birçok **Discord Bot**u geliştirdim, public sunucuları başta olmak üzere gif botları dahi geliştiriyorum; sende benle çalışmak istersen **Discord** <img width="18" height="18" src='https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png'/> üzerinden ulaşabilirsin.
 <br></br>
 
-<img width="18" height="18" src='https://pnggrid.com/wp-content/uploads/2021/05/Spotify-Logo-Circle-1024x1024.png'/> **Discord:** [Arda#1000](https://discord.com/users/949705281863032872)</br><br>
-**Spotify:** [Arda](https://open.spotify.com/user/31w73vykhjhyetlg2klp4yuznrui?si=wT3PEdZATqCmZCUynxAy-Q&utm_source=copy-link)
+<img width="18" height="18" src='https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png'/> **Discord:** [Arda#1000](https://discord.com/users/949705281863032872)</br><br>
+<img width="18" height="18" src='https://pnggrid.com/download/spotify-logo-transparent-png/.png'/>**Spotify:** [Arda](https://open.spotify.com/user/31w73vykhjhyetlg2klp4yuznrui?si=wT3PEdZATqCmZCUynxAy-Q&utm_source=copy-link)
 <img src='https://api.ravencode.live/users/920366542531743797/embed'></img>
 
 
