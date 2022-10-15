@@ -6,7 +6,8 @@ _Full Stack - Front-End Developer_
 ### Hakkımda:
 1.5 yıldır yazılım ile uğraşıyorum, birçok **Discord Bot**u geliştirdim, public sunucuları başta olmak üzere gif botları dahi geliştiriyorum; sende benle çalışmak istersen **Discord**<img width="18" height="18" src='https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png'/> üzerinden ulaşabilirsin.
 <br></br>
-[Arda#1000](https://discord.com/users/949705281863032872)
+
+**Discord:** [Arda#1000](https://discord.com/users/949705281863032872)
 <img src='https://api.ravencode.live/users/920366542531743797/embed'></img>
 
 
