@@ -9,7 +9,7 @@
    <a href="https://twitter.com/" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
-#Discord Account:
+#### Discord Account:
 <div align="center">
       <img src="https://lanyard.cnrad.dev/api/920366542531743797?bg=111111">
    </a>
