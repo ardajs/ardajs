@@ -7,6 +7,7 @@
    <a href="https://instagram.com/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://twitter.com/" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+   <a href="https://twitter.com/" target"blank_"><img src="https://img.shields.io/badge/Figma%20-111111.svg?&style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
 
 #### Discord Account:
