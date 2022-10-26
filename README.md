@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=arddaxd)
 <br>
 <p align="center">
    <a href="https://discord.com/users/298888568279924746" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -12,7 +11,6 @@
       <img src="https://lanyard.cnrad.dev/api/920366542531743797?bg=111111">
    </a>
 </div>
+<br>
 
-
-<br> </br>
-
+### Skills:
