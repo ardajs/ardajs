@@ -1,4 +1,3 @@
-[![Arda](https://media.discordapp.net/attachments/1024428907761512468/1030953209575002143/20221016_001945.jpg)](https://github.com/arddaxd/)
 ![](https://komarev.com/ghpvc/?username=arddaxd)<br>
 
 
