@@ -1,5 +1,5 @@
-### Banner
-Banner coming
+### About Me:
+15 years old, Full Stack Developer and Community Manager @Disformat 
 
 ### Links:
 <p align="center">
