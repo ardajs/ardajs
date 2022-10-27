@@ -21,7 +21,6 @@
 <br>
 
 ### Tecnhologies I Use:
-
 <div align="center">
 <a <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
 <img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
@@ -31,9 +30,8 @@
 <img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
 </div>
 
-<br></br>
+<br>
 ### Github Stats
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=arddaxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
     <br>
