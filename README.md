@@ -2,6 +2,7 @@
 15 years old, Full Stack Developer and Community Manager @Disformat 
 
 ### Links:
+
 <p align="center">
    <a href="https://discord.com/users/" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
@@ -12,6 +13,7 @@
 </p>
 
 ### Discord Account:
+
 <div align="center">
       <img src="https://lanyard.cnrad.dev/api/920366542531743797?bg=111111">
    </a>
@@ -19,9 +21,9 @@
 <br>
 
 ### Tecnhologies I Use:
+
 <div align="center">
 <a <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
-
 <img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Discord.Js%20-111111.svg?&style=for-the-badge&logo=Discord.Js&logoColor=white">
