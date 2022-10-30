@@ -1,35 +1,30 @@
-### About Me:
-15 years old, Full Stack Developer and Community Manager @Disformat 
+<h1 align="center">Arda</h1>
+<h3 align="center">Discord Bot & Full Stack Developer</h3>
 
-### Links:
+- 🔭 İlgilendiğim Dallar: **Yazılım Geliştiriciliği / Sosyal Mühendislik**
 
-<p align="center">
-   <a href="https://discord.com/users/" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-   <a href="https://open.spotify.com/user/" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-   <a href="https://www.youtube.com/channel/" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-   <a href="https://instagram.com/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-   <a href="https://github.com/" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-   <a href="https://twitter.com/" target"blank_"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+- 🌱 Şuan öğrendiğim Dil: **Python, Saas**
+
+- ⚡️ Hakkımda: [https://arda.gq](https://arda.gq)
+
+- 📫 Bana ulaşman için: ****
+
+<h3 align="left">Contact</h3>
+<p align="left">
+<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasandurukan" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasanxfw" height="30" width="40" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fC3dxNzN75" height="30" width="40" /></a>
 </p>
 
-### Discord Account:
+<h3 align="left">Skills:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
+
+## Discord Account:
 <div align="center">
       <img src="https://lanyard.cnrad.dev/api/920366542531743797?bg=111111">
    </a>
 </div>
-<br>
-
-### Tecnhologies I Use:
-<div align="center">
-<a <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
-<img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Discord.Js%20-111111.svg?&style=for-the-badge&logo=Discord.Js&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5%20-111111.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
-</div>
-
 <br>
 
 ### Github Stats
