@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">Skills:</h3>
-<p align="left"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html,bootstrap,css,js,nodejs,sass,mongodb,php,tailwindcss,next,mysql,express,react,git,figma,ps,github,firebase,heroku,webpack,ts,nest" />
+<p align="left"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,php,git,figma,ps,github,firebase,heroku,ts,ae" />
 </div></a> </p>
 
 ## Discord Account:
