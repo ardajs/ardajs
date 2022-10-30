@@ -1,10 +1,11 @@
 <h1 align="center">Arda</h1>
-<h3 align="center">Discord Bot & Full Stack Developer</h3>
+<h3 align="center">Discord Bot & Senior Full Stack Developer</h3>
 
 - 🔭 İlgilendiğim Dallar: **Yazılım Geliştiriciliği / Sosyal Mühendislik**
 - 🌱 Şuan öğrendiğim Dil: **Python, Saas**
 - ⚡️ Hakkımda: [https://arda.gq](https://arda.gq)
 - 📫 Bana ulaşman için: ****
+- 📌 Şuanda: **Senior Full Stack Developer**
 
 <h3 align="left">Contact</h3>
 <p align="left">
