@@ -1,4 +1,4 @@
-<h1 align="center">[Arda Dev](https://github.com/arddaxd)</h1>
+<h1 align="center">(Arda Dev)[https://github.com/arddaxd]</h1>
 <h3 align="center">Discord Bot & Senior Full Stack Developer</h3>
 
 - 🔭 İlgilendiğim Dallar: **Yazılım Geliştiriciliği / Sosyal Mühendislik**
