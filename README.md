@@ -1,5 +1,5 @@
 <h1 align="center">Selam, Ben Arda 👋</h1>
-<h3 align="center">Discord Bot & Senior Full Stack Developer</h3>
+<h3 align="center">Discord Bot & Web Developer</h3>
 
 - 🔭 İlgilendiğim Dallar: **Yazılım Geliştiriciliği / Sosyal Mühendislik**
 - 🌱 Şuan öğrendiğim Dil: **Go**
