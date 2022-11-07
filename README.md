@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, Ben [Arda](https://discord.com/)</h1>
+<h1 align="center">Merhaba, Ben Arda 👋</h1>
 <h3 align="center">Discord Bot & Senior Full Stack Developer</h3>
 
 - 🔭 İlgilendiğim Dallar: **Yazılım Geliştiriciliği / Sosyal Mühendislik**
