@@ -1,1 +1,1 @@
-<a href="https://github.com/ardajs"><img src="https://komarev.com/ghpvc/?username=ardajs">
+<a href="https://github.com/"><img src="https://komarev.com/ghpvc/?username=">
