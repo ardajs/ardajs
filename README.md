@@ -4,7 +4,7 @@ I am 16 years old and I am a software developer. I usually code bots on discord 
 <br></br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ardajs&color=5865f2"/>
+    <img src="https://komarev.com/ghpvc/?username=ardajs&color=c63h7"/>
 </div>
 <div align="center">
    <a href="https://discord.com/users/920366542531743797" target="_blank">
