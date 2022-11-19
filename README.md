@@ -10,7 +10,7 @@ I am 16 years old and I am a software developer. I usually code bots on discord 
 </div>
 </div>
 
-### Skills:
+### Tecnhologies;
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,nodejs,express,mongodb,firebase&theme=dark" />
 
 ### Connect with me:
