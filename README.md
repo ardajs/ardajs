@@ -19,6 +19,6 @@ I am 16 years old and I am a software developer. I usually code bots on discord 
    <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
    <a href="https://discord.com/users/920366542531743797"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
    <a href="https://youtube.com/"<img src"https://skillicons.dev/icons?i=youtube&theme=dark" /> </a>
-
+   <a href="https://spotify.com/"<img src"https://skillicons.dev/icons?i=spotify&theme=dark" /> </a>
 </div>
 
