@@ -3,7 +3,7 @@ I am 16 years old and I am a software developer. I usually code bots on discord 
 
 <br></br>
 
-<img align="right" src="https://lanyard-profile-readme.vercel.app/api/920366542531743797"></a>
+<a href="https://discord.com/users/920366542531743797"><img align="right" src="https://lanyard-profile-readme.vercel.app/api/920366542531743797"></a>
 
 </br><br>
 
