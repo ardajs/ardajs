@@ -5,8 +5,9 @@ I am 16 years old and I am a software developer. I usually code bots on discord 
 <br>
 <div align="center">
    <a href="https://discord.com/users/920366542531743797" target="_blank">
-      <img src="https://lanyard.cnrad.dev/api/<div920366542531743797?bg=111111">
+      <img src="https://lanyard.cnrad.dev/api/920366542531743797?bg=111111">
    </a>
+</div>
 </div>
 
 ### Skills:
