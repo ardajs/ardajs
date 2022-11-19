@@ -20,3 +20,5 @@ I am 16 years old and I am a software developer. I usually code bots on discord 
    <a href="https://discord.com/users/920366542531743797"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
 </div>
 
+##Github Stats:
+
