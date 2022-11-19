@@ -1,4 +1,4 @@
-<h2>Hi, im Arda 👋
+<h3>Hi, im Arda 👋 <h3>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=ardajs&color=dc143c"/>
 </div>
