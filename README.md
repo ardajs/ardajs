@@ -14,14 +14,14 @@ I am Arda, i 16 years old and I am a software developer, Turkish Student. I usua
 </div>
 
 ### Tecnhologies:
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,nodejs,express,mongodb,firebase,git,tailwind,ruby&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,nodejs,express,mongodb,firebase,git,tailwind,ps&theme=dark" />
 
 ### Connect with me:
 <div>
    <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
    <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
    <a href="https://discord.com/users/920366542531743797"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
-   <a href="https://youtube.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+   <a href="https://github.com/ardajs/"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
 </div>
 
 ## Github Stats:
