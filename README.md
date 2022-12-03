@@ -14,7 +14,7 @@ I am Arda, i 16 years old and I am a software developer, Turkish Student. I usua
 </div>
 
 ### Tecnhologies:
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,nodejs,express,mongodb,firebase,git,tailwind,ruby&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,php,nodejs,express,mongodb,firebase,git,tailwind&theme=dark" />
 
 ### Connect with me:
 <div>
