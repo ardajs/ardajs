@@ -13,10 +13,10 @@ I am Arda, i 16 years old and I am a software developer, Turkish Student. I usua
 </div>
 </div>
 
-### Tecnhologies:
+## Tecnhologies:
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,nodejs,express,mongodb,firebase,git,tailwind&theme=dark" />
 
-### Connect with me:
+## Connect with me:
 <div>
    <a href="https://instagram.com/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
    <a href="https://twitter.com/thisArdaJS?t=1z7XZGN2zvdIZEKe-voPpw&s=09"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
